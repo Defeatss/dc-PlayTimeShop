@@ -1125,13 +1125,13 @@ readers do not read off random characters that represent icons */
 .fa-creative-commons-by:before {
   content: "\f4e7"; }
 
-.fa-creative-commons-dc:before {
+.fa-creative-commons-nc:before {
   content: "\f4e8"; }
 
-.fa-creative-commons-dc-eu:before {
+.fa-creative-commons-nc-eu:before {
   content: "\f4e9"; }
 
-.fa-creative-commons-dc-jp:before {
+.fa-creative-commons-nc-jp:before {
   content: "\f4ea"; }
 
 .fa-creative-commons-nd:before {
